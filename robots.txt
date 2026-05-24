@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.https://nandananandana7445-jpg.github.io/icecream/sitemap.xml
